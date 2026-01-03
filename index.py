@@ -2,4 +2,4 @@
 Docstring for index
 """
 print("onkar")
-print("Tankya")
+print("Tankya","is intalligence")
